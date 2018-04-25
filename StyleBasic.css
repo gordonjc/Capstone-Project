@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main, body, html
+{
+	background-image: url("BackGroundOne11smaller.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: inherit;
+	padding:0;
+	overflow: auto;
+	height: 100%;
+	max-height: 100%;
+	margin-bottom: 0;
+}
+
+#logo-container-top
+{
+	align-content: center;
+	text-align: center;
+	padding-top: 50px;
+}
+
+#footer
+{
+	bottom: 0;
+	background-color: rgba(0,0,0,0.84);
+	color: rgba(121,128,122,1.00);
+	text-align: center;
+	position: relative;
+	margin-top: 100%;
+	
+}
+
+#searchContainer
+{
+	overflow: visible;
+	align-content: center;
+	text-align: center;
+	padding-top: 20px;
+	margin: auto;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#SearchBoxHeader
+{
+	background-color: rgba(115,114,68,1.00);
+	color: rgba(216,255,255,1.00);
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+	border-color: rgba(54,54,32,1.00);
+}
+
+#SearchBoxMain
+{
+	background-color: rgba(115,114,68,0.72);
+	color: rgba(216,255,255,1.00);
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+	border-color: rgba(54,54,32,1.00);
+    font-size: 12px;
+}
+
+#whiteSpace
+{
+	bottom: 0;
+	position: fixed;
+	margin: 0;
+	padding: 0;
+}
+
+#brand
+{
+	color: #E2E0FF;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 16px;
+	overflow: hidden;
+}
+
+#scrapPrice
+{
+	background-color: rgba(115,114,68,0.75);
+	color: rgba(216,255,255,1.00);
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.priceHeader0
+{
+	padding: 10px;
+	border-bottom: 2px solid rgba(54,54,32,1.00);
+	font-size: 25px;
+	font-family: alice;
+	color: antiquewhite;
+}
+
+table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-radius: 16px;
+}
+
+.priceCatRow0
+{
+	text-align: center;
+	padding: 10px;
+	background-color:rgba(230,238,213,1.00);
+	color:rgba(78,97,40,1.00);
+	font-size: 16px;
+	font-weight: 700;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	line-height: 24px;
+}
+
+.priceCatRow0
+{
+	width: 33%;
+	border-right: 2px solid rgba(54,54,32,1.00);
+}
+
+.priceCatRow1
+{
+	text-align: center;
+	padding: 10px;
+	color:rgba(230,238,213,1.00);
+	background-color: rgba(115,114,68,0.88);
+	font-size: 24px;
+	font-weight: 700;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	line-height: 24px;
+}
+
+.priceCatRow1 td
+{
+	width: 33%;
+	border-right: 2px solid rgba(54,54,32,1.00);
+}
+
+.priceFooter0
+{
+	text-align: left;
+	border: none;
+	vertical-align: top;
+	font-size: 12px;
+	color: rgba(230,238,213,1.00);
+}
+
+.back-dark
+{
+	background-color: rgba(0,0,0,0.75);
+}
+
+.cellPadding4px
+{
+	padding: 4px;
+}
+
+.scrapInfo
+{
+	background-color: rgba(115,114,68,0.92);
+	color: rgba(230,238,213,1.00);
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}

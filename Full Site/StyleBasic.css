@@ -1,0 +1,165 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main, body, html
+{
+	background-image: url("BackGroundOne11smaller.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: inherit;
+	padding:0;
+	height: 100%;
+	overflow: auto;
+	max-height: 100%;
+	margin-bottom: 0;
+}
+
+#navItemStyle1-0
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-1
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-2
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-3
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-4
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-5
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-0
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-1
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-2
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-3
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-4
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#navItemStyle1-5
+{
+	font-size: 138%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #FEFBF2; 
+}
+
+#logo-container-top
+{
+	align-content: center;
+	text-align: center;
+	padding-top: 50px;
+}
+
+#footer
+{
+	bottom: 0;
+	background-color: rgba(0,0,0,0.84);
+	color: rgba(121,128,122,1.00);
+	text-align: center;
+	position: relative;
+	margin-top: 100%;
+	
+}
+
+#searchContainer
+{
+	overflow: visible;
+	align-content: center;
+	text-align: center;
+	padding-top: 20px;
+	margin: auto;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#SearchBoxHeader
+{
+	background-color: rgba(115,114,68,1.00);
+	color: rgba(216,255,255,1.00);
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+	border-color: rgba(54,54,32,1.00);
+}
+
+#SearchBoxMain
+{
+	background-color: rgba(115,114,68,0.72);
+	color: rgba(216,255,255,1.00);
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+	border-color: rgba(54,54,32,1.00);
+    font-size: 12px;
+}
+
+#whiteSpace
+{
+	bottom: 0;
+	position: fixed;
+	margin: 0;
+	padding: 0;
+}
+
+#brand
+{
+	color: #E2E0FF;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 16pt;
+	overflow: hidden;
+}
