@@ -5,7 +5,7 @@
 {
 	background-image: url("imagecutbest.jpg");
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: fill;
 	background-attachment: inherit;
 	padding:0;
 	overflow: auto;
